@@ -1,0 +1,20 @@
+{
+"instructions_readme": "1) Open Chrome, 2) go to chrome://tracing, 3) click Load, 4) navigate to this file.",
+
+"traceEvents":[
+{ "pid": "Unity", "ph":"M", "name": "process_name", "args": {"name": "Unity"} },
+{ "pid": "Unity", "ph":"M", "name": "process_sort_index", "args": {"sort_index": -100} },
+{ "pid": "Unity", "tid": 1, "ph":"M", "name": "thread_name", "args": {"name": ""} },
+{ "pid": "Unity", "tid": 1,"ts": 16795195926.4,"dur": 64029770, "ph":"X", "name": "Build player"},
+{ "pid": "Unity", "tid": 1,"ts": 16795238272.7,"dur": 81166.6, "ph":"X", "name": "Preprocess Player"},
+{ "pid": "Unity", "tid": 1,"ts": 16800312855,"dur": 58868554, "ph":"X", "name": "Prepare For Build"},
+{}
+
+],
+"meta_datetime": "09/26/2022 02:02:26",
+"meta_command_line": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2021.2.8f1\\Editor\\Unity.exe\" -projectPath \"C:\\Users\\1Blue\\OneDrive\\Desktop\\Unity\\UnityProjects_Tutorials\\VR Interactions - With Unit Test\"",
+"meta_command_line_args": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.2.8f1\\Editor\\Unity.exe -projectPath C:\\Users\\1Blue\\OneDrive\\Desktop\\Unity\\UnityProjects_Tutorials\\VR Interactions - With Unit Test",
+"meta_user_name": "1Blue",
+"meta_os_version": "Microsoft Windows NT 10.0.22000.0",
+"meta_cpu_count": "16"
+}
