@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{16273268-8AC5-1A04-26DA-B1EE4E4A9550}</ProjectGuid>
+    <ProjectGuid>{D5CD8D1F-8149-634D-215F-0D2887618EF8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.XR.OpenXR.Features.OculusQuestSupport.Editor</AssemblyName>
@@ -716,27 +716,27 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.XR.OpenXR.Editor.csproj">
-      <Project>{3FF718F7-DEF2-E1E1-ACE6-183F60C4DEB7}</Project>
+      <Project>{3A1E0E43-4D6C-1137-7A47-9E21407B5E0F}</Project>
       <Name>Unity.XR.OpenXR.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.OpenXR.Features.OculusQuestSupport.csproj">
-      <Project>{7BC2E3CA-DAB2-8A12-A093-46C40E54DA08}</Project>
+      <Project>{3B280D85-C89B-1132-F693-43A4FD5A4876}</Project>
       <Name>Unity.XR.OpenXR.Features.OculusQuestSupport</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{A321E22A-A441-40D8-E2CF-A937E793C425}</Project>
+      <Project>{8455F81B-C3B0-DACE-6E20-FD9278B3FA82}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{33EF6313-FDB0-6B57-5D34-DB5642D9BB52}</Project>
+      <Project>{AE33DA2F-C74C-9BB0-AB93-69355FEE69E0}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{468BB4F7-304F-67E2-97CF-E906DA869287}</Project>
+      <Project>{AB44C2C7-1673-469B-90F3-029178DC4A20}</Project>
       <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{C39D52AC-140C-9F32-785F-226AC498BAE6}</Project>
+      <Project>{4E5FCD47-FF76-FF4F-EA98-72C9BAB67324}</Project>
       <Name>UnityEditor.TestRunner</Name>
     </ProjectReference>
   </ItemGroup>
