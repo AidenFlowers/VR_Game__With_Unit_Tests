@@ -1,4 +1,4 @@
-# VR_Game__With_Unit_Tests
+# VR Game With Unit Tests
 
 
 VR Foundation World - Unit Test Practice
@@ -14,3 +14,4 @@ Next Path/s:
 
 1. Adding a bounce to the ball, and adding rings for a simple 'hoop game'
 2. Finish a project for XRTerra to make a 'car showroom'
+3. Add Unit Tests for interactions and scoring on 'hoop game'
