@@ -9,7 +9,6 @@ Current: A green ball and cube,  pink platform,  use inner triggers to lift obje
 Play and Edit empty files set up,  filling in optimistically when add script layers below.  
 
 Test Type/Platform:  Tested out with Headset Cord Link to PC.  Works.
-(need to learn how to configure something to dev on Mac)
 
 Blocker: Hand animation logic on left hand looks correct when checking booleans for transitions,
 but not working.  Investigatng.
