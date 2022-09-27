@@ -5,7 +5,8 @@ VR Foundation World - Unit Test Practice
 
 09/25/2022 - 
 
-Current: A green ball and cube,  pink platform,  use inner triggers to lift objects when pointers are white
+Current: A green ball and cube,  pink platform,  use inner triggers to lift objects when pointers are white.  
+Play and Edit empty files set up,  filling in optimistically when add script layers below.
 
 Blocker: Hand animation logic on left hand looks correct when checking booleans for transitions,
 but not working.  Investigatng.
